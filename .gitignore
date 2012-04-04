@@ -1,0 +1,9 @@
+*/obj
+*.o
+moc_*
+
+*.log
+*~
+*.pro.user
+*Makefile
+
