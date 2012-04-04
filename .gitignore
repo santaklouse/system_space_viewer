@@ -1,9 +1,9 @@
 */obj
 *.o
 moc_*
-
 *.log
 *~
 *.pro.user
 *Makefile
-
+ui_*.h
+system_space_viewer
